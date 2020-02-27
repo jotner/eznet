@@ -1,0 +1,72 @@
+2019-12-09T13:45:13+00:00 CRITICAL syntax error, unexpected end of file i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php på rad 16
+
+2019-12-09T13:46:50+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php:3
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/template-loader.php(98): include()
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-blog-header.php(19): require_once('/home/jotner/do...')
+#2 /home/jotner/domains/jotner.se/public_html/eznet/index.php(17): require('/home/jotner/do...')
+#3 {main}
+  thrown i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php på rad 3
+
+2019-12-09T13:47:09+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php:3
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/template-loader.php(98): include()
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-blog-header.php(19): require_once('/home/jotner/do...')
+#2 /home/jotner/domains/jotner.se/public_html/eznet/index.php(17): require('/home/jotner/do...')
+#3 {main}
+  thrown i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php på rad 3
+
+2019-12-09T13:47:18+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php:3
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/template-loader.php(98): include()
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-blog-header.php(19): require_once('/home/jotner/do...')
+#2 /home/jotner/domains/jotner.se/public_html/eznet/index.php(17): require('/home/jotner/do...')
+#3 {main}
+  thrown i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php på rad 3
+
+2019-12-09T13:47:26+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php:3
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/template-loader.php(98): include()
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-blog-header.php(19): require_once('/home/jotner/do...')
+#2 /home/jotner/domains/jotner.se/public_html/eznet/index.php(17): require('/home/jotner/do...')
+#3 {main}
+  thrown i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php på rad 3
+
+2019-12-09T13:48:28+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php:3
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/template-loader.php(98): include()
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-blog-header.php(19): require_once('/home/jotner/do...')
+#2 /home/jotner/domains/jotner.se/public_html/eznet/index.php(17): require('/home/jotner/do...')
+#3 {main}
+  thrown i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php på rad 3
+
+2019-12-09T13:49:01+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php:3
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/template-loader.php(98): include()
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-blog-header.php(19): require_once('/home/jotner/do...')
+#2 /home/jotner/domains/jotner.se/public_html/eznet/index.php(17): require('/home/jotner/do...')
+#3 {main}
+  thrown i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php på rad 3
+
+2019-12-09T14:09:40+00:00 CRITICAL Cannot redeclare best_sell() (previously declared in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/best-seller/CMS-2-Labb-2-Best-Seller.php:11) i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/home.php på rad 27
+
+2019-12-09T14:11:42+00:00 CRITICAL syntax error, unexpected '?' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php på rad 25
+
+2019-12-09T14:11:49+00:00 CRITICAL syntax error, unexpected '?' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php på rad 25
+
+2019-12-09T14:25:54+00:00 CRITICAL syntax error, unexpected end of file i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php på rad 17
+
+2019-12-09T14:26:00+00:00 CRITICAL syntax error, unexpected end of file i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php på rad 17
+
+2019-12-09T14:26:06+00:00 CRITICAL syntax error, unexpected end of file i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php på rad 14
+
+2019-12-09T14:26:08+00:00 CRITICAL syntax error, unexpected end of file i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php på rad 14
+
+2019-12-09T14:26:13+00:00 CRITICAL syntax error, unexpected end of file i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php på rad 14
+
+2019-12-09T14:26:15+00:00 CRITICAL syntax error, unexpected end of file i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php på rad 14
+
+2019-12-09T14:26:20+00:00 CRITICAL syntax error, unexpected end of file i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/page-butiker.php på rad 14
+
+2019-12-09T14:50:49+00:00 CRITICAL syntax error, unexpected '<', expecting end of file i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/home.php på rad 42
+

@@ -1,0 +1,60 @@
+2019-12-16T09:18:26+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php:130
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): process_custom_payment('')
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1093): do_action('woocommerce_che...')
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): WC_AJAX::checkout('')
+#6 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): W i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php på rad 130
+
+2019-12-16T09:21:18+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php:130
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): process_custom_payment('')
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1093): do_action('woocommerce_che...')
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): WC_AJAX::checkout('')
+#6 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): W i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php på rad 130
+
+2019-12-16T09:21:26+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php:130
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): process_custom_payment('')
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1093): do_action('woocommerce_che...')
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): WC_AJAX::checkout('')
+#6 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): W i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php på rad 130
+
+2019-12-16T09:33:27+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php:130
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): process_custom_payment('')
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1093): do_action('woocommerce_che...')
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): WC_AJAX::checkout('')
+#6 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): W i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php på rad 130
+
+2019-12-16T10:11:46+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php:130
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): process_custom_payment('')
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1093): do_action('woocommerce_che...')
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): WC_AJAX::checkout('')
+#6 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): W i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php på rad 130
+
+2019-12-16T10:12:25+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php:130
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): process_custom_payment('')
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1093): do_action('woocommerce_che...')
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): WC_AJAX::checkout('')
+#6 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): W i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php på rad 130
+

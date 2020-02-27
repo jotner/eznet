@@ -1,0 +1,52 @@
+2019-12-13T10:04:45+00:00 CRITICAL Cannot redeclare load_style() (previously declared in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/best-seller/best-seller.php:78) i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/on-sale/on-sale.php på rad 95
+
+2019-12-13T10:04:48+00:00 CRITICAL Cannot redeclare load_style() (previously declared in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/best-seller/best-seller.php:78) i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/on-sale/on-sale.php på rad 95
+
+2019-12-13T10:04:48+00:00 CRITICAL Cannot redeclare load_style() (previously declared in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/best-seller/best-seller.php:78) i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/on-sale/on-sale.php på rad 95
+
+2019-12-13T10:05:40+00:00 CRITICAL Cannot redeclare load_style() (previously declared in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/best-seller/best-seller.php:78) i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/on-sale/on-sale.php på rad 95
+
+2019-12-13T10:05:42+00:00 CRITICAL Cannot redeclare load_style() (previously declared in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/best-seller/best-seller.php:78) i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/on-sale/on-sale.php på rad 95
+
+2019-12-13T10:05:42+00:00 CRITICAL Cannot redeclare load_style() (previously declared in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/best-seller/best-seller.php:78) i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/on-sale/on-sale.php på rad 95
+
+2019-12-13T11:45:56+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function freeship_get_settings(), 1 passed in /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php:65
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): freeship_get_settings(Array)
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/admin/settings/class-wc-settings-shipping.php(82): apply_filters('woocommerce_shi...', Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/admin/settings/class-wc-settings-shipping.php(154): WC_Settings_Shipping->get_settings()
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288 i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php på rad 65
+
+2019-12-13T11:45:58+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function freeship_get_settings(), 1 passed in /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php:65
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): freeship_get_settings(Array)
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/admin/settings/class-wc-settings-shipping.php(82): apply_filters('woocommerce_shi...', Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/admin/settings/class-wc-settings-shipping.php(154): WC_Settings_Shipping->get_settings()
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288 i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php på rad 65
+
+2019-12-13T11:46:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function freeship_get_settings(), 1 passed in /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php:65
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): freeship_get_settings(Array)
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/admin/settings/class-wc-settings-shipping.php(82): apply_filters('woocommerce_shi...', Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/admin/settings/class-wc-settings-shipping.php(154): WC_Settings_Shipping->get_settings()
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288 i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php på rad 65
+
+2019-12-13T11:46:05+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function freeship_get_settings(), 1 passed in /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php:65
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): freeship_get_settings(Array)
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/admin/settings/class-wc-settings-shipping.php(82): apply_filters('woocommerce_shi...', Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/admin/settings/class-wc-settings-shipping.php(154): WC_Settings_Shipping->get_settings()
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288 i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php på rad 65
+
+2019-12-13T11:54:12+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function freeship_get_settings(), 1 passed in /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php:65
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): freeship_get_settings(Array)
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/admin/settings/class-wc-settings-shipping.php(82): apply_filters('woocommerce_shi...', Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/admin/settings/class-wc-settings-shipping.php(154): WC_Settings_Shipping->get_settings()
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288 i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php på rad 65
+

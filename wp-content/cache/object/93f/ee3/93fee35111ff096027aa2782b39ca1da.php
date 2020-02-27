@@ -1,0 +1,1 @@
+дь^<?php exit; ?>a:1:{s:7:"content";a:2:{i:20;O:8:"stdClass":3:{s:7:"meta_id";s:4:"1404";s:8:"meta_key";s:13:"popular_posts";s:10:"meta_value";s:2:"24";}i:25;O:8:"stdClass":3:{s:7:"meta_id";s:4:"3267";s:8:"meta_key";s:23:"_yith_wcbm_product_meta";s:10:"meta_value";s:31:"a:1:{s:8:"id_badge";s:3:"397";}";}}}

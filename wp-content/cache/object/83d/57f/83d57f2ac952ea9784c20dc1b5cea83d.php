@@ -1,0 +1,9 @@
+��^<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:3:"115";s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2019-12-09 11:37:14";s:13:"post_date_gmt";s:19:"2019-12-09 10:37:14";s:12:"post_content";s:404:"<header>
+<p class="subheading">Komfort du förtjänar</p>
+
+</header>
+<div class="product-description-html">Sätt dig, du kommer vilja vara kvar här en stund. Corsair T2 ROAD WARRIOR har en bred sittplats, lång rygg och inlineliknande hjul för att vara lätt och smidig att flytta på. Stolen finns i fem olika accentfärger och har den stil och komfort man söker för längre spelsessioner.</div>";s:10:"post_title";s:23:"Corsair T2 Road Warrior";s:12:"post_excerpt";s:404:"<header>
+<p class="subheading">Komfort du förtjänar</p>
+
+</header>
+<div class="product-description-html">Sätt dig, du kommer vilja vara kvar här en stund. Corsair T2 ROAD WARRIOR har en bred sittplats, lång rygg och inlineliknande hjul för att vara lätt och smidig att flytta på. Stolen finns i fem olika accentfärger och har den stil och komfort man söker för längre spelsessioner.</div>";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:23:"corsair-t2-road-warrior";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2020-01-08 11:56:45";s:17:"post_modified_gmt";s:19:"2020-01-08 10:56:45";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:52:"http://jotner.se/eznet/?post_type=product&#038;p=115";s:10:"menu_order";s:1:"0";s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"1";}}

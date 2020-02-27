@@ -1,0 +1,9 @@
+��^<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:2:"61";s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2019-12-09 10:51:20";s:13:"post_date_gmt";s:19:"2019-12-09 09:51:20";s:12:"post_content";s:399:"<header>
+<p class="subheading">Grafikkort med inbyggd AIO-vattenkylning</p>
+
+</header>
+<div class="product-description-html">NVIDIAs nyaste flaggskeppsgrafik är revolutionerande inom spelrealism och prestanda. Den kraftfulla NVIDIA Turing™ GPU-arkitekturen, banbrytande teknik och 11 GB av nästa generations ultrasnabba GDDR6-minne gör den till den mest optimala spel-GPU:n som finns.</div>";s:10:"post_title";s:57:"Gigabyte GeForce RTX 2080 Ti 11GB AORUS WATERFORCE XTREME";s:12:"post_excerpt";s:399:"<header>
+<p class="subheading">Grafikkort med inbyggd AIO-vattenkylning</p>
+
+</header>
+<div class="product-description-html">NVIDIAs nyaste flaggskeppsgrafik är revolutionerande inom spelrealism och prestanda. Den kraftfulla NVIDIA Turing™ GPU-arkitekturen, banbrytande teknik och 11 GB av nästa generations ultrasnabba GDDR6-minne gör den till den mest optimala spel-GPU:n som finns.</div>";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:57:"gigabyte-geforce-rtx-2080-ti-11gb-aorus-waterforce-xtreme";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2019-12-12 18:02:10";s:17:"post_modified_gmt";s:19:"2019-12-12 17:02:10";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:51:"http://jotner.se/eznet/?post_type=product&#038;p=61";s:10:"menu_order";s:1:"0";s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"1";}}

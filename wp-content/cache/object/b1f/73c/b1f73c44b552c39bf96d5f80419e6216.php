@@ -1,0 +1,1 @@
+γό^<?php exit; ?>a:1:{s:7:"content";a:3:{s:10:"_edit_lock";a:1:{i:0;s:12:"1576170163:1";}s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:11:"_badge_meta";a:1:{i:0;s:210:"a:8:{s:4:"type";s:4:"text";s:4:"text";s:3:"Ny!";s:9:"txt_color";s:7:"#ffffff";s:8:"bg_color";s:7:"#22b9f9";s:5:"width";s:2:"45";s:6:"height";s:2:"45";s:8:"position";s:9:"top-right";s:9:"image_url";s:5:"1.png";}";}}}

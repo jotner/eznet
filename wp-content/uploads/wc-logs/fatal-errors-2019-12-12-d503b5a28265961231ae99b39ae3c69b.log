@@ -1,0 +1,12 @@
+2019-12-12T18:02:55+00:00 CRITICAL syntax error, unexpected ';', expecting '{' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/functions.php på rad 75
+
+2019-12-12T18:03:12+00:00 CRITICAL syntax error, unexpected ';', expecting '{' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/functions.php på rad 75
+
+2019-12-12T18:08:52+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/functions.php på rad 76
+
+2019-12-12T18:09:06+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/functions.php på rad 76
+
+2019-12-12T18:09:08+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/functions.php på rad 76
+
+2019-12-12T21:54:06+00:00 CRITICAL syntax error, unexpected '<', expecting end of file i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/home.php på rad 51
+

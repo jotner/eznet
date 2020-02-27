@@ -1,0 +1,181 @@
+2019-12-10T10:11:37+00:00 CRITICAL Uncaught Error: Call to a member function get_categories() on null in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/best-seller/best-seller.php:33
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/shortcodes.php(325): best_sell('', '', 'bestSeller')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(bestSe...', 'do_shortcode_ta...', '[bestSeller]')
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/home.php(7): do_shortcode('[bestSeller]')
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/template-loader.php(98): include('/home/jotner/do...')
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-blog-header.php(19): require_once('/home/jotner/do...')
+#6 /home/jotner/domains/jotner.se/public_html/eznet/index.php(17): require('/home/jotner/do...')
+#7 {main}
+  thrown i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/best-seller/best-seller.php på rad 33
+
+2019-12-10T11:27:07+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:27:57+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:28:23+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:28:34+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:28:50+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:28:52+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:29:02+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:29:59+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:30:01+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:30:18+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:30:33+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:30:50+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:30:56+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:30:59+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:31:00+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:31:10+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:31:16+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:31:18+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:31:23+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:31:25+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:31:27+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:31:28+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:31:29+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:31:56+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:33:00+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:33:03+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:33:04+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:33:05+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:33:05+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:33:05+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:33:05+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:33:24+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T11:35:20+00:00 CRITICAL syntax error, unexpected ')' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/single.php på rad 23
+
+2019-12-10T12:06:10+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wps_add_select_checkout_field(), 1 passed in /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php:10
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): wps_add_select_checkout_field(Object(WC_Checkout))
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/templates/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/hom i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php på rad 10
+
+2019-12-10T12:06:14+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wps_add_select_checkout_field(), 1 passed in /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php:10
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): wps_add_select_checkout_field(Object(WC_Checkout))
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/templates/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/hom i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php på rad 10
+
+2019-12-10T12:20:56+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_title() in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/best-seller/best-seller.php:34
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/shortcodes.php(325): best_sell('', '', 'bestSeller')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(bestSe...', 'do_shortcode_ta...', '[bestSeller]')
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/home.php(7): do_shortcode('[bestSeller]')
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/template-loader.php(98): include('/home/jotner/do...')
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-blog-header.php(19): require_once('/home/jotner/do...')
+#6 /home/jotner/domains/jotner.se/public_html/eznet/index.php(17): require('/home/jotner/do...')
+#7 {main}
+  thrown i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/best-seller/best-seller.php på rad 34
+
+2019-12-10T12:20:59+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_title() in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/best-seller/best-seller.php:34
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/shortcodes.php(325): best_sell('', '', 'bestSeller')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(bestSe...', 'do_shortcode_ta...', '[bestSeller]')
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/home.php(7): do_shortcode('[bestSeller]')
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/template-loader.php(98): include('/home/jotner/do...')
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-blog-header.php(19): require_once('/home/jotner/do...')
+#6 /home/jotner/domains/jotner.se/public_html/eznet/index.php(17): require('/home/jotner/do...')
+#7 {main}
+  thrown i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/best-seller/best-seller.php på rad 34
+
+2019-12-10T12:21:38+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_title() in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/best-seller/best-seller.php:34
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/shortcodes.php(325): best_sell('', '', 'bestSeller')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(bestSe...', 'do_shortcode_ta...', '[bestSeller]')
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/home.php(7): do_shortcode('[bestSeller]')
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/template-loader.php(98): include('/home/jotner/do...')
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-blog-header.php(19): require_once('/home/jotner/do...')
+#6 /home/jotner/domains/jotner.se/public_html/eznet/index.php(17): require('/home/jotner/do...')
+#7 {main}
+  thrown i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/best-seller/best-seller.php på rad 34
+
+2019-12-10T12:22:10+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_title() in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/best-seller/best-seller.php:34
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/shortcodes.php(325): best_sell('', '', 'bestSeller')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(bestSe...', 'do_shortcode_ta...', '[bestSeller]')
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/home.php(7): do_shortcode('[bestSeller]')
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/template-loader.php(98): include('/home/jotner/do...')
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-blog-header.php(19): require_once('/home/jotner/do...')
+#6 /home/jotner/domains/jotner.se/public_html/eznet/index.php(17): require('/home/jotner/do...')
+#7 {main}
+  thrown i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/best-seller/best-seller.php på rad 34
+
+2019-12-10T12:22:35+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::the_title() in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/best-seller/best-seller.php:34
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/shortcodes.php(325): best_sell('', '', 'bestSeller')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(bestSe...', 'do_shortcode_ta...', '[bestSeller]')
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/themes/eznet/home.php(7): do_shortcode('[bestSeller]')
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/template-loader.php(98): include('/home/jotner/do...')
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-blog-header.php(19): require_once('/home/jotner/do...')
+#6 /home/jotner/domains/jotner.se/public_html/eznet/index.php(17): require('/home/jotner/do...')
+#7 {main}
+  thrown i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/best-seller/best-seller.php på rad 34
+
+2019-12-10T12:33:46+00:00 CRITICAL Uncaught Error: Call to undefined function get_value() in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php:36
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): wps_add_select_checkout_field(Object(WC_Checkout))
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/templates/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home/jotner/do...')
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(301): wc_get_template('checkout/ i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php på rad 36
+
+2019-12-10T13:48:50+00:00 CRITICAL Uncaught Error: Call to a member function get_butiker() on null in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php:12
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): wps_add_select_checkout_field(Object(WC_Checkout))
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/templates/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home/jotner/do...')
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(301): wc_get_template(' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php på rad 12
+
+2019-12-10T13:49:06+00:00 CRITICAL Uncaught Error: Call to a member function get_butiker() on null in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php:12
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): wps_add_select_checkout_field(Object(WC_Checkout))
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/templates/checkout/form-shipping.php(51): do_action('woocommerce_bef...', Object(WC_Checkout))
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/home/jotner/do...')
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(301): wc_get_template(' i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php på rad 12
+

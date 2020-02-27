@@ -1,0 +1,9 @@
+��^<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:3:"254";s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2019-12-09 14:15:35";s:13:"post_date_gmt";s:19:"2019-12-09 13:15:35";s:12:"post_content";s:469:"<header>
+<p class="subheading">Ny sensor och ergonomisk design</p>
+
+</header>
+<div class="product-description-html">EC-serien har en ergonomisk design speciellt anpassad för högerhänta och utmärkt för all typ av gaming. Den perfekt rundade och samtidigt diskreta musen ger stort utrymme för handledsrörelser. Passar för användare med antingen claw- eller palmgip. Den uppdaterade EC-serien använder Pixart PMW3360-sensor samt stora skatez undertill.</div>";s:10:"post_title";s:22:"ZOWIE EC2 Gaming Mouse";s:12:"post_excerpt";s:469:"<header>
+<p class="subheading">Ny sensor och ergonomisk design</p>
+
+</header>
+<div class="product-description-html">EC-serien har en ergonomisk design speciellt anpassad för högerhänta och utmärkt för all typ av gaming. Den perfekt rundade och samtidigt diskreta musen ger stort utrymme för handledsrörelser. Passar för användare med antingen claw- eller palmgip. Den uppdaterade EC-serien använder Pixart PMW3360-sensor samt stora skatez undertill.</div>";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:22:"zowie-ec2-gaming-mouse";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2019-12-10 14:33:03";s:17:"post_modified_gmt";s:19:"2019-12-10 13:33:03";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:52:"http://jotner.se/eznet/?post_type=product&#038;p=254";s:10:"menu_order";s:1:"0";s:9:"post_type";s:7:"product";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"1";}}

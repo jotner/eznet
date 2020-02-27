@@ -1,0 +1,152 @@
+2019-12-17T11:47:48+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php:130
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): process_custom_payment('')
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1093): do_action('woocommerce_che...')
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): WC_AJAX::checkout('')
+#6 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): W i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php på rad 130
+
+2019-12-17T11:55:22+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php:130
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): process_custom_payment('')
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1093): do_action('woocommerce_che...')
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): WC_AJAX::checkout('')
+#6 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): W i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php på rad 130
+
+2019-12-17T11:56:36+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php:130
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): process_custom_payment('')
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1093): do_action('woocommerce_che...')
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): WC_AJAX::checkout('')
+#6 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): W i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php på rad 130
+
+2019-12-17T12:02:11+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php:130
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): process_custom_payment('')
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1093): do_action('woocommerce_che...')
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): WC_AJAX::checkout('')
+#6 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): W i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php på rad 130
+
+2019-12-17T12:02:24+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php:130
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): process_custom_payment('')
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1093): do_action('woocommerce_che...')
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): WC_AJAX::checkout('')
+#6 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): W i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php på rad 130
+
+2019-12-17T12:08:21+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php:130
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): process_custom_payment('')
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1093): do_action('woocommerce_che...')
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): WC_AJAX::checkout('')
+#6 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): W i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php på rad 130
+
+2019-12-17T13:14:03+00:00 CRITICAL Uncaught Error: Call to undefined function get_shipping_methods() in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php:115
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): wc_ninja_find_all_available_shipping_rates(Array, Array)
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(339): apply_filters('woocommerce_pac...', Array, Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(258): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1259): WC_Shipping->calculate_shipping(Array)
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plug i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php på rad 115
+
+2019-12-17T13:14:11+00:00 CRITICAL Uncaught Error: Call to undefined function get_shipping_methods() in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php:115
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): wc_ninja_find_all_available_shipping_rates(Array, Array)
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(339): apply_filters('woocommerce_pac...', Array, Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(258): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1259): WC_Shipping->calculate_shipping(Array)
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plug i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php på rad 115
+
+2019-12-17T13:14:27+00:00 CRITICAL Uncaught Error: Call to undefined function get_shipping_methods() in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php:115
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): wc_ninja_find_all_available_shipping_rates(Array, Array)
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(339): apply_filters('woocommerce_pac...', Array, Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(258): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1259): WC_Shipping->calculate_shipping(Array)
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plug i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php på rad 115
+
+2019-12-17T13:16:03+00:00 CRITICAL Uncaught Error: Call to undefined function get_shipping_methods() in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php:115
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): wc_ninja_find_all_available_shipping_rates(Array, Array)
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(339): apply_filters('woocommerce_pac...', Array, Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(258): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1259): WC_Shipping->calculate_shipping(Array)
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plug i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php på rad 115
+
+2019-12-17T14:43:43+00:00 CRITICAL Uncaught Error: Call to undefined function wc_memberships_is_user_active_member() in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php:115
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(290): woocommerce_package_rates(Array)
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(339): apply_filters('woocommerce_pac...', Array, Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(258): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1259): WC_Shipping->calculate_shipping(Array)
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/wooc i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php på rad 115
+
+2019-12-17T14:43:47+00:00 CRITICAL Uncaught Error: Call to undefined function wc_memberships_is_user_active_member() in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php:115
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(290): woocommerce_package_rates(Array)
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(339): apply_filters('woocommerce_pac...', Array, Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(258): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1259): WC_Shipping->calculate_shipping(Array)
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/wooc i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php på rad 115
+
+2019-12-17T14:44:08+00:00 CRITICAL Uncaught Error: Call to undefined function wc_memberships_is_user_active_member() in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php:115
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(290): woocommerce_package_rates(Array)
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(339): apply_filters('woocommerce_pac...', Array, Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(258): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1259): WC_Shipping->calculate_shipping(Array)
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/wooc i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php på rad 115
+
+2019-12-17T14:44:28+00:00 CRITICAL Uncaught Error: Call to undefined function wc_memberships_is_user_active_member() in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php:115
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(290): woocommerce_package_rates(Array)
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(339): apply_filters('woocommerce_pac...', Array, Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-shipping.php(258): WC_Shipping->calculate_shipping_for_package(Array, 0)
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1259): WC_Shipping->calculate_shipping(Array)
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/wooc i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/shipping-leverans-butik/ship-pickup.php på rad 115
+
+2019-12-17T18:35:53+00:00 CRITICAL Uncaught Error: Call to undefined function checkPnr() in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php:147
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): process_custom_payment('')
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1093): do_action('woocommerce_che...')
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): WC_AJAX::checkout('')
+#6 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php på rad 147
+
+2019-12-17T18:36:51+00:00 CRITICAL Uncaught Error: Call to undefined function checkPnr() in /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php:147
+Stack trace:
+#0 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): process_custom_payment('')
+#1 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1093): do_action('woocommerce_che...')
+#4 /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#5 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(288): WC_AJAX::checkout('')
+#6 /home/jotner/domains/jotner.se/public_html/eznet/wp-includes/class-wp-hook.php(312): WP i /home/jotner/domains/jotner.se/public_html/eznet/wp-content/plugins/faktura-plugin/faktura-betalning.php på rad 147
+
